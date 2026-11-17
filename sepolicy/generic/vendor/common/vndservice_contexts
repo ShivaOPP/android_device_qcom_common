@@ -1,2 +1,1 @@
-# QMS uses the Binder service_contexts entry from CLO; its type is not a
-# vndservice_manager_type, so it must not also be registered here.
+vendor.qti.data.qmsservice.IQmsService  u:object_r:vendor_qms_service:s0
